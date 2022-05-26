@@ -53,7 +53,7 @@ public class LeerFicheroBinario {
                        
            }
           
-           
+          
            
            
        }catch(EOFException e){}
